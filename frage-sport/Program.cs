@@ -1,4 +1,6 @@
 ﻿using System.Linq;
+// fick hjälp av Mikeal att fixa så att man inte kan ge ett okänt svar
+// måste fråga mer exakt vad "using Sytem.Linq;" betyder och gör
 
 // Fn + F1 ger till gitIgnore -> Visual Studio
 
