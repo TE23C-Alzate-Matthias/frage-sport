@@ -5,6 +5,7 @@
 int points = 0;
 Console.Clear();
 Console.WriteLine("Välkomen till min league of legends frågesport!");
+Console.WriteLine(" ");
 
 //------------------------------------------------------
 
@@ -89,5 +90,6 @@ else {
     Console.WriteLine("Du fick alla rätt! Gud vad bra du är på league :D");
 }
 
+Console.WriteLine(" ");
 Console.WriteLine("Tryck på valfri tangent för att avsluta");
 Console.ReadKey();
