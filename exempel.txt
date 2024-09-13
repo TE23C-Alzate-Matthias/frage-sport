@@ -1,0 +1,23 @@
+// genomgångs kod läraren går igenom
+
+string name = "Micke";
+
+string result = "6" + "4";
+
+Console.WriteLine(result);
+
+// int skippar alla decimaler, det måste vara heltal
+int hp = 100;  // kan använda +, -, *, och /
+
+// gör samma sak
+hp = hp - 10;
+hp -= 10;
+
+// minskar eller sänk något med 1
+hp--;
+hp++;
+
+
+Console.WriteLine($"Du har {100}hp kvar")
+
+Console.ReadLine();
